@@ -1,0 +1,1 @@
+peanut --extra-args "--base-href=/Asmaa-BirthDay/" --web-renderer canvaskit
