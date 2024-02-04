@@ -15,7 +15,7 @@ final player = AudioPlayer();
 
 const birthYear = 2000;
 const birthMonth = 2;
-const dayOne = 5;
+const dayOne = 10;
 const dayTwo = 12;
 
 DateTime get now => DateTime.now();
