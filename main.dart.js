@@ -7255,7 +7255,7 @@ _.e=_.d=0
 _.r=c
 _.w=d},
 ae9(){var s=Date.now()
-s=A.nM(A.nL(new A.ca(s,!1)),2,5,0,0,0,0,!1)
+s=A.nM(A.nL(new A.ca(s,!1)),2,10,0,0,0,0,!1)
 if(!A.fc(s))A.R(A.e9(s))
 s=A.bm(0,s-Date.now(),0).a
 return s<0&&Math.abs(s)<864e8},
@@ -34301,7 +34301,7 @@ s=q
 break}}return 0}}
 A.a4N.prototype={
 $0(){var s,r=Date.now()
-r=A.nM(A.nL(new A.ca(r,!1)),2,5,0,0,0,0,!1)
+r=A.nM(A.nL(new A.ca(r,!1)),2,10,0,0,0,0,!1)
 if(!A.fc(r))A.R(A.e9(r))
 s=new A.ca(r,!1)
 if(Date.now()>r)return A.a9A(s,A.nL(s)+1)
@@ -62485,7 +62485,7 @@ s($,"awA","Md",()=>new A.NU(A.y(t.N,A.a9("iP"))))
 r($,"aw6","a5c",()=>B.v4)
 s($,"asv","aeK",()=>A.aoE(A.a6y(0)))
 s($,"asu","aeJ",()=>A.aoD(A.a6x(0)))
-s($,"awx","a8K",()=>A.aj6(2000,2,5,0,0,0,0,0))
+s($,"awx","a8K",()=>A.aj6(2000,2,10,0,0,0,0,0))
 s($,"awO","xV",()=>A.aic())
 s($,"awL","a8R",()=>new A.a4N().$0())
 s($,"awM","a8S",()=>new A.a4O().$0())
